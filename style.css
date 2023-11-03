@@ -1,0 +1,105 @@
+*{
+    font-family:'Inter' ;
+    margin: 0px;
+}
+
+#menu-superior{
+    background-color:#303030;
+    padding: 135px;
+}
+
+#titulo-menusuperior{
+    color: #FFFFFF;
+    font-size: 40px;
+    font-style: normal;
+    margin-left: -75px;
+    margin-top: 15px;
+    letter-spacing: 2,5px;    
+}
+
+#texto-menusuperior{
+    color:#F9F9F9;
+    margin-left: -75px;
+    margin-top: 15px;
+    letter-spacing: 2,5px; 
+}
+
+#menu-informacional{
+    background-color: #F9F9F9;
+    display:grid;
+    grid-template-columns: repeat(3,1fr);
+    row-gap: 20px;
+    columns: auto;
+    padding: 60px 0px 44px 0px;
+}
+
+.item{
+    display: grid;
+    position: relative;
+    justify-self: center;
+}
+
+#seção-informativa{
+    font-family: 'inter';
+   display: grid;
+   row-gap: 40px;
+   grid-template-columns: 1fr 0.7fr;
+   align-items: center;
+   justify-content: flex-end;
+   padding: 100px 66px 20px;
+}
+
+#titulo-seção-informativa{
+    font-size: 2em;
+    font-size: 30px;
+}
+
+#texto-seção-informativa{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-size: 25px;
+}
+
+#foto-da-casa{
+    margin-left: 100px;
+}    
+
+#formulario{
+    padding: 60px;
+    font-family: 'Inter';
+    background-color: #303030;
+    color: white;
+    text-align: center; 
+}
+
+#titulo-formulario{
+    margin-bottom: 25px;
+    size: 25px;
+    color: white;
+}
+input{
+    color: white;
+    width:300px;
+    height:40px;
+    margin: 15px;
+    border: 0px;
+    border-radius:5px;
+    padding-left: 10px;
+}
+button{
+    background-color:#C07212;
+    color: white;
+    width: 150px;
+    height: 40px;
+    margin: 15px;
+    border: 0px;
+    border-radius: 5px;
+    padding-left:10px;
+}
+
+    
+
+
