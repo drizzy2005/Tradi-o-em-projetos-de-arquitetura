@@ -1,2 +1,2 @@
-# Tradi-o-em-projetos-de-arquitetura
+# Tradiçao-em-projetos-de-arquitetura
 Arquitetura residencial e comercial.
